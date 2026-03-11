@@ -77,11 +77,6 @@ movie-recommender-system/
 
 - Streamlit UI allows users to search a movie and get recommendations.
 
- 🌐 Local Demo
-Run the app locally and open:
-
-http://localhost:8501
-
 📊 Results
 
 - Accurate similarity-based movie recommendations
